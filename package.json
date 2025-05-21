@@ -1,0 +1,14 @@
+{
+    "name": "retroserve",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "server.mjs",
+    "scripts": {
+        "start": "node server.mjs"
+    },
+    "dependencies": {
+        "dotenv": "^16.5.0",
+        "webtorrent": "^1.0.0"
+    }
+}
